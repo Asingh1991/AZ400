@@ -1,0 +1,9 @@
+network to pvt endpoint via deloitte tunnel
+
+but that tunnel did not have VNET address space of tmc
+
+we removed endpoint so tunnel rule does not come in picture
+
+We werenot part of global vnet
+
+3b295252-9edf-4117-9404-2a9341e2980d
